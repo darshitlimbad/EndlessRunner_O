@@ -4,6 +4,12 @@
    </a>
 </p>
 
+<p align="center">
+    <a href="https://lightyagami555.itch.io/endlessrunner" target="_blank">
+       <img alt="Download Windows/Android Game now" src="https://img.shields.io/badge/Download Windows/Android Game now-blue">
+    </a>
+</p>
+
 # EndlessRunner
 
 **EndlessRunner** is a fast-paced action game where you run through dodging obstacles and collecting power-ups. As the speed increases, so does the challenge—how far can you go?
