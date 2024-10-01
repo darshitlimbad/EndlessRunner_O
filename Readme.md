@@ -1,5 +1,3 @@
-<img src="" style="margin:auto;">
-
 <p align="center">
    <a href ="https://lightyagami555.itch.io/endlessrunner">
       <img src="media/EndlessRunner_Logo_96X96.png" alt="logo" >
